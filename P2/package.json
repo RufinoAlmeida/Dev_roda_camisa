@@ -1,0 +1,23 @@
+{
+  "name": "p2",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "types": "commonjs",
+  "dependencies": {
+    "@prisma/client": "^7.2.0",
+    "express": "^5.2.1",
+    "install": "^0.13.0",
+    "mongodb": "^7.0.0"
+  },
+  "devDependencies": {
+    "prisma": "^7.2.0"
+  }
+}
