@@ -1,16 +1,3 @@
-"""
-main.py
-=======
-Ponto de entrada do pipeline WiDS Wildfire.
-
-Orquestra os modulos em ordem sem conter logica de negocio propria.
-Para alterar comportamento, edite os modulos correspondentes ou config/settings.py.
-
-Uso:
-    python main.py
-    (train.csv e test.csv devem estar na mesma pasta que main.py)
-"""
-
 import warnings
 import sys
 
